@@ -1,11 +1,11 @@
 # Site settings
-author: Nicholas Walton
-title: 
+author: Nick Walton
+title: Making Changes
 header-img: img/home-bg.png
 email: cactar65@gmail.com
-copyright_name: Nicholas Walton
+copyright_name: Nick Walton
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Blog about making changes
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  cactar65
